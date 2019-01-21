@@ -1,1 +1,1 @@
-# Code exmples written in C++
+# C++ code examples
